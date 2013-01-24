@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spinach.App", "Spinach.App\Spinach.App\Spinach.App.csproj", "{EB030327-15CD-4CE3-AD02-C564C5A276F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spinach.AppContent", "Spinach.App\Spinach.AppContent\Spinach.AppContent.contentproj", "{9E1E4BF8-C372-498F-8B93-F40EBDD04A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spinach.Domain", "Spinach.Domain\Spinach.Domain.csproj", "{8E3CD60C-62A5-4046-A28C-14AD6D02DB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spinach.Test", "Spinach.Test\Spinach.Test\Spinach.Test.csproj", "{137D869E-CE7E-4E7F-993D-AEAC79214E31}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Spinach.TestContent", "Spinach.Test\Spinach.TestContent\Spinach.TestContent.contentproj", "{27CF65E0-8A56-4404-89C9-412A9E196330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB030327-15CD-4CE3-AD02-C564C5A276F3}.Debug|x86.ActiveCfg = Debug|x86
+		{EB030327-15CD-4CE3-AD02-C564C5A276F3}.Debug|x86.Build.0 = Debug|x86
+		{EB030327-15CD-4CE3-AD02-C564C5A276F3}.Release|x86.ActiveCfg = Release|x86
+		{EB030327-15CD-4CE3-AD02-C564C5A276F3}.Release|x86.Build.0 = Release|x86
+		{9E1E4BF8-C372-498F-8B93-F40EBDD04A5F}.Debug|x86.ActiveCfg = Debug|x86
+		{9E1E4BF8-C372-498F-8B93-F40EBDD04A5F}.Release|x86.ActiveCfg = Release|x86
+		{8E3CD60C-62A5-4046-A28C-14AD6D02DB4D}.Debug|x86.ActiveCfg = Debug|x86
+		{8E3CD60C-62A5-4046-A28C-14AD6D02DB4D}.Debug|x86.Build.0 = Debug|x86
+		{8E3CD60C-62A5-4046-A28C-14AD6D02DB4D}.Release|x86.ActiveCfg = Release|x86
+		{8E3CD60C-62A5-4046-A28C-14AD6D02DB4D}.Release|x86.Build.0 = Release|x86
+		{137D869E-CE7E-4E7F-993D-AEAC79214E31}.Debug|x86.ActiveCfg = Debug|x86
+		{137D869E-CE7E-4E7F-993D-AEAC79214E31}.Debug|x86.Build.0 = Debug|x86
+		{137D869E-CE7E-4E7F-993D-AEAC79214E31}.Release|x86.ActiveCfg = Release|x86
+		{137D869E-CE7E-4E7F-993D-AEAC79214E31}.Release|x86.Build.0 = Release|x86
+		{27CF65E0-8A56-4404-89C9-412A9E196330}.Debug|x86.ActiveCfg = Debug|x86
+		{27CF65E0-8A56-4404-89C9-412A9E196330}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
